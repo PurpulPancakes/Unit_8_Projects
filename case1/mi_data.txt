@@ -37,5 +37,5 @@ Download Speed: 50 Mbps
 Upload Speed: 20 Mbps
 Cloud Storage: 40 GB
 E-mail Accounts: 10 Accounts
-24/7 Support: Yes
+24/7 Support: No
 Summary: Perfect for a small business running multiple media streams, demanding reduced lag time and fast data delivery.
