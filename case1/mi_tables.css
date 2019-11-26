@@ -61,6 +61,11 @@ thead tr:first-of-type th{
    color: black;
 }
 
+footer img:hover{
+   transform: scale(50);
+   transition: 20s ease-in-out
+}
+
 
 
 
